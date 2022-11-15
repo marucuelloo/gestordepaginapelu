@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Roboto");
+@font-face {
+    font-family: 'Terraquatica'; /*a name to be used later*/
+    src: url('fonts/Terraquatica.ttf'); /*URL to font*/
+}
+.fa-buceo:before{
+    font-family: 'Terraquatica';
+    content:'\e900';
+}
+.fa-buceo-c:before{
+    font-family: 'Terraquatica';
+    content:'\e901';
+}
+.fa-capacitacion:before{
+    font-family: 'Terraquatica';
+    content:'\e902';
+}
+.fa-empresa:before{
+    font-family: 'Terraquatica';
+    content:'\e903';
+}
+.fa-equipo:before{
+    font-family: 'Terraquatica';
+    content:'\e904';
+}
+.fa-mision:before{
+    font-family: 'Terraquatica';
+    content:'\e905';
+}
+.fa-vision:before{
+    font-family: 'Terraquatica';
+    content:'\e906';
+}
+.fa-sirena:before{
+    font-family: 'Terraquatica';
+    content:'\e907';
+}
